@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Я Мария — начинающий аналитик данных, студентка 4 курса и Школы 21.
-
 Стек: Python, SQL, pandas, scikit-learn.
 
 📧 erendjenovamaria@yandex.ru · Telegram: @stmareii
