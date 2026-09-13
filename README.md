@@ -1,4 +1,4 @@
-## Hi there 👋
+## Привет! 👋
 
 <!--
 **stmareii/stmareii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Я Мария — начинающий аналитик данных, студентка 4 курса и Школы 21.
+
+Стек: Python, SQL, pandas, scikit-learn.
+
+📧 erendjenovamaria@yandex.ru · Telegram: @stmareii
